@@ -1,6 +1,6 @@
 # ☀️ Django Weather App – Real-Time Weather Forecast Application
 
-![Homepage](./src/assets/images/homepage.png)
+![Homepage](./src/assets/images/wa.png)
 
 A responsive weather app built using **Django**, this application fetches **real-time weather data** from the **OpenWeatherMap API**. It is a beginner-friendly full-stack web project that integrates external APIs and presents dynamic data via a clean **Bootstrap** interface.
 
@@ -27,10 +27,6 @@ A responsive weather app built using **Django**, this application fetches **real
 * Error handling for invalid cities
 
 ---
-
-## 📸 Screenshot
-
-![Homepage](./src/assets/images/homepage.png)
 
 ---
 
